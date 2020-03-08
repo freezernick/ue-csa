@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Construction Site Assets",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "Free2Play-Entertainment",
+	"CreatedByURL": "https://free2play-entertainment.de",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "mailto:contact@f2p-entertainment.de",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false
+}
